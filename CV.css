@@ -1,0 +1,91 @@
+#corps
+{
+    position: relative;
+    width: 600px;
+    height: 800px;
+}
+
+#ContenueDroite
+{
+    width: 400px;
+    height: 600px;
+    float: right;
+    font-size: small;
+}
+
+#ContenueGauche
+{
+    background-color: steelblue;
+    height: 600px;
+    width: 168px;
+    font-size: small;
+    margin-left: 15px;
+    border-color: black;
+    border: 3px;
+    border-style: solid;
+
+}
+
+#PiedDePage
+{
+    height: 200px;
+    width: 600px;
+    position: absolute;
+    float: bottom;
+}
+
+#PiedDePage
+{
+    text-align: center;
+    margin-top : 10px;
+}
+
+p
+{
+    font-family: Arial;
+}
+
+.enligne
+{
+    display: inline;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.Lien
+{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Titre
+{
+    margin-top: 10px;
+    text-align: center;
+    font-size: x-large;
+    background-color: steelblue;
+    border-radius: 30px;
+}
+
+.Image
+{
+    margin-left: 30px;
+}
+
+.Transparent
+{
+    color: grey;
+}
+
+#conteneur
+{
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 350px;
+    background-color: lightblue;
+    height: 850px;
+    width: 700px;
+}
+
+
